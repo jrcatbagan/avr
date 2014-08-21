@@ -1,0 +1,12 @@
+*.o
+*.elf
+*.hex
+makefile~
+.gitignore~
+*.c~
+*.h~
+*.s~
+*.S~
+.dep
+*.eep
+*.bat
